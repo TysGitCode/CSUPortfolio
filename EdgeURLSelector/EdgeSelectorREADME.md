@@ -23,24 +23,25 @@ This was created as a solution for an issue on the infor team that prevented us 
 ---
 
 ## 📸 Screenshots / Demo
-![URL EDGE SELECTOR_1](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/bf53bb4e-6f2d-4e3e-95cf-81ccd2ff4cd1)
+![URL EDGE SELECTOR_1](https://github.com/user-attachments/assets/00f38746-0f0d-45dd-96c8-728b8986484d)
 Run from VScode or .py file.
-![URL EDGE SELECTOR_2](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/2f603664-8391-4ec5-9436-fc6fd31d27d1)
+![URL EDGE SELECTOR_2](https://github.com/user-attachments/assets/e6531f1a-2627-4084-8cdd-e88d2ded8131)
 Adjustable window size when maximized.
-![URL EDGE SELECTOR_3](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/c2fb58ec-7d6f-4966-8cac-f0a0a07df309)
+![URL EDGE SELECTOR_3](https://github.com/user-attachments/assets/4931e535-f970-4ef3-a011-6914fbd76336)
 Select all button to open all URLs / Enviornments at once.
-![URL EDGE SELECTOR_4](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/8e174838-20a8-4ef7-b89a-3f6667e64118)
+![URL EDGE SELECTOR_4](https://github.com/user-attachments/assets/9cd5ad72-36c5-4136-8799-ff7b9f6dc6e3)
 Clear button to remove current URL Selections
-![URL EDGE SELECTOR_5](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/f579da54-ef47-49bb-b622-b74a92f86911)
+![URL EDGE SELECTOR_5](https://github.com/user-attachments/assets/0f2c28e3-4b63-4cd5-b1a7-208e70195576)
 Drag to reorder links in order you would like to open them in.
-![URL EDGE SELECTOR_6](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/477517d0-d14e-4007-8343-985275c43a66)
+![URL EDGE SELECTOR_6](https://github.com/user-attachments/assets/c67d935e-daa1-4242-a6d2-b21ff033894d)
 Validate URLs to check that the link is correct.
-![URL EDGE SELECTOR_7](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/50af47ad-bd46-4faf-bc87-d5875973d1f5)
+![URL EDGE SELECTOR_7](https://github.com/user-attachments/assets/f6b60783-d6e8-44e8-8bb9-9b79eca1a616)
 Validation shows successfull or failed.
-![URL EDGE SELECTOR_8](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/1926f6fb-600c-433b-87a7-ffecee7bcba7)
+![URL EDGE SELECTOR_8](https://github.com/user-attachments/assets/181047b2-f58a-43f5-80f5-7243781c19d8)
 Buttons to copy all URLs to clipboard.
-![URL EDGE SELECTOR_9](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/86dd65e2-4ec8-42fe-ad87-e015275a11ce)
+![URL EDGE SELECTOR_9](https://github.com/user-attachments/assets/857c890d-a40c-4e54-86f2-97f58a2c8e36)
 Open button to open all selected URLs with entered delay.
-![URL EDGE SELECTOR_10](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/523ec685-ec70-4d96-ae4e-c97741e14bea)
+![URL EDGE SELECTOR_10](https://github.com/user-attachments/assets/8e132d13-a46a-4aa6-b02c-8f8b27551cad)
 Opens all enviornments / links selected in the menu under guest accounts to avoid sessions conflicting.
-![URL EDGE SELECTOR_11](https://lxp-github1.csu.org/tymitchell/Portfolio/assets/146/e2439dee-cc99-4ddf-b722-e9e7e74fd937)
+![URL EDGE SELECTOR_11](https://github.com/user-attachments/assets/62d3b955-b2a3-4558-b413-500344b61a1b)
+
